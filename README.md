@@ -1,2 +1,0 @@
-# qaGroup-MarkShapka
-qaGroup-MarkShapka
